@@ -1,7 +1,7 @@
 Usage of Movie recommendor system
 
 - you will get 5 similar movies from imdb with searched movie
-- using bag-of-words algorithm of similarity calculation
+- used 'bag-of-words' algorithm of similarity calculation (cosine similarity as it is large data set)
 - used streamlit for run the app
 
 - command:-  'streamlit run app.py'
